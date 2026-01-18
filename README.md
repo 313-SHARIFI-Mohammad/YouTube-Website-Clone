@@ -1,24 +1,7 @@
-# YouTube-Website-Clone
-I Created a YouTube Clone Website With HTML&amp;CSS
-
-
 # YouTube Clone 🎥
 
-A responsive **YouTube UI clone** built using **HTML & CSS**.  
-This project replicates the layout and design of YouTube, including the header, sidebar, video grid, and user profile section.
-
----
-
-## 🔗 Live Demo
-https://yourusername.github.io/youtube-clone/
-
-> (Replace `yourusername` with your GitHub username)
-
----
-
-## 📸 Screenshot
-
-![YouTube Clone Screenshot](screenshots/youtube-clone.png)
+A YouTube UI clone built using **HTML & CSS**, inspired by the original YouTube design.  
+This project focuses on recreating the layout, styling, and user interface elements of YouTube.
 
 ---
 
@@ -26,16 +9,19 @@ https://yourusername.github.io/youtube-clone/
 - YouTube-style header with search bar and icons
 - Sidebar navigation (Home, Explore, Subscriptions, etc.)
 - Responsive video grid layout
-- Video cards with thumbnails, duration, channel info
-- Clickable videos that open the real YouTube video
+- Video cards with thumbnails, duration, and channel details
+- Clickable videos that open the real YouTube videos
 - User profile picture section
-- Hover effects and tooltips
+- Tooltips and hover effects
+- **Animated YouTube logo for enhanced UI experience**
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3 (Flexbox & Grid)
+- CSS3
+- CSS Flexbox
+- CSS Grid
 - Google Fonts (Roboto)
 
 ---
